@@ -1,0 +1,16 @@
+/* Start Reset Css and Fonts Section */
+html{
+    direction: rtl;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none ;
+}
+@font-face{
+    font-family: 'IranSans' ;
+    src:url(/Fonts/IRANSansWeb_Bold.eot?7626d015e15844db7d1f54c8e415461a?#) format('embedded-opentype') ,
+    url(/Fonts/IRANSansWeb_Bold.ttf?4ff441e3b8c51acd2261585feca1d8c8) format('truetype');
+}
+/* End Reset Css and Fonts Section */

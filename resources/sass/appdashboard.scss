@@ -1,0 +1,29 @@
+
+//dashboard css files---------
+
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import 'variables';
+@import '~bootstrap/scss/bootstrap';
+
+@import "AdminPage/bootstrap.min.css";
+@import "AdminPage/MDB/css/mdb.min.css";
+@import "AdminPage/AdminLTE/css/adminlte.min.css";
+@import "AdminPage/AdminLTE/css/custom-style.css";
+@import "AdminPage/AdminLTE/css/bootstrap-rtl.min.css";
+@import "AdminPage/fontawesome/css/all.min.css";
+@import "AdminPage/bootstrap-select.min.css";
+
+//---
+
+@import "AdminPage/datatables/dataTables.bootstrap4.css";
+@import "AdminPage/datatables/jquery.dataTables_themeroller.css";
+
+//----
+@import "AdminPage/ionicons-master/docs/css/ionicons.min.css";
+@import "AdminPage/iCheck/icheck.css";
+@import "AdminPage/morris.css";
+@import "AdminPage/sweetalert.css";
+@import "AdminPage/bootstrap3-wysihtml5.min.css";
+@import "AdminPage/persian-datepicker.min.css";
+@import "AdminPage/Admin.css";
+
